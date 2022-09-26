@@ -1,3 +1,3 @@
-# Country_population_prediction
-ML model that will predict the population of a country 
-Using Pandas, Matplotlib, Scikit Learn and Pandas to predict population.
+# Country_population_EDA
+
+Using Pandas, Matplotlib and Pandas to perform EDA i.e Exploratory Data Analysis on the given dataset
